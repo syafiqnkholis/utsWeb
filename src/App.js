@@ -1,5 +1,5 @@
-//Nama : Wisnton Wiradi Pangestu
-//NIM : 18/432187/SV/16123
+//Nama : Syafiq Nur Kholis
+//NIM : 18/431744/SV/15715
 import {
   BrowserRouter,
   Route,
@@ -9,7 +9,7 @@ import Header from "./Header";
 import Blog from "./Blog";
 import BlogDetail from "./BlogDetail";
 import React, { Component }  from 'react';
-//install bootstrap dulu
+//install bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 // Ini merupakan functional component
